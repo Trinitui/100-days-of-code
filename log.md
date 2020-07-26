@@ -4,7 +4,7 @@
 
 **Today's Progress**: Got a variable from JS to show in HTML! And continued working on the app while taking a small break from FCC projects. I also added in code to make that variable persistent across page loads, which was great. I dove back into FCC projects as well, completing the Telephone Number Validator and starting the Cash Register.
 
-**Thoughts:** 
+**Thoughts:** It's very rewarding getting something to work on your own app :) 
 
 **Link to work:** [100 Days App](https://codepen.io/Trinitui/pen/VweMVav)
 
