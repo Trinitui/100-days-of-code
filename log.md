@@ -14,8 +14,8 @@
 
 ### Day 1: July 27, 2020
 
-**Today's Progress**: 
+**Today's Progress**: I worked a lot on the Cash Register, including drawing out the steps of the process to decrement a variable. Still needs work though.
 
-**Thoughts:** 
+**Thoughts:** Paper and pencil are a lot better than the console!
 
 **Link to work:** [Cash Register](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
