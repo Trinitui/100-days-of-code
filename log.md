@@ -19,3 +19,12 @@
 **Thoughts:** Paper and pencil are a lot better than the console!
 
 **Link to work:** [Cash Register](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+
+
+### Day 2: July 28, 2020
+
+**Today's Progress**: I worked on the Cash Register, including figuring out how to get it to display corretly. A bit more work needed
+
+**Thoughts:** 
+
+**Link to work:** [Cash Register](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
