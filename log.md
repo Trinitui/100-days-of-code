@@ -28,3 +28,13 @@
 **Thoughts:** 
 
 **Link to work:** [Cash Register](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+
+
+### Day 3: July 29, 2020
+
+**Today's Progress**: I finished the Cash Register! And claimed my certification! Starting the Front End Libraries challenges as well. 
+
+**Thoughts:** 
+
+**Link to work:** [Cash Register](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+[Cert] (https://www.freecodecamp.org/certification/trinitui/javascript-algorithms-and-data-structures)
