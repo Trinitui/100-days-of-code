@@ -47,3 +47,11 @@
 **Thoughts:** It's fun putting what I learn to use on my own projects!
 
 **Link to work:** [Gex Quote Generator](https://codepen.io/Trinitui/pen/yLedZpx)
+
+### Day 5: July 31, 2020
+
+**Today's Progress**: Continuing with the Bootstrap challenges, which I completed! Starting jQuery challenges today.
+
+**Thoughts:** Bootstrap isn't as complex as I remembered!
+
+**Link to work:** [jQuery Challenges](https://www.freecodecamp.org/learn/front-end-libraries/jquery/learn-how-script-tags-and-document-ready-work)
