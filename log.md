@@ -39,3 +39,11 @@
 **Link to work:** [Cash Register](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
 
 **Link to work:** [Cert](https://www.freecodecamp.org/certification/trinitui/javascript-algorithms-and-data-structures)
+
+### Day 4: July 30, 2020
+
+**Today's Progress**: I started work on another app, and so I didn't continue FCC today. I'll pick that up again tomorrow? I used what I learned yesterday today though.
+
+**Thoughts:** It's fun putting what I learn to use on my own projects!
+
+**Link to work:** [Gex Quote Generator](https://codepen.io/Trinitui/pen/yLedZpx)
