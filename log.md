@@ -63,4 +63,5 @@
 **Thoughts:** jQuery - I wish these sections had more challenging lessons. 
 
 **Link to work:** [jQuery Challenges](https://www.freecodecamp.org/learn/front-end-libraries/jquery/learn-how-script-tags-and-document-ready-work)
+
 **Link to work:** [Gex Quote Generator](https://codepen.io/Trinitui/pen/yLedZpx)
