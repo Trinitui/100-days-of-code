@@ -55,3 +55,12 @@
 **Thoughts:** Bootstrap isn't as complex as I remembered!
 
 **Link to work:** [jQuery Challenges](https://www.freecodecamp.org/learn/front-end-libraries/jquery/learn-how-script-tags-and-document-ready-work)
+
+### Day 6: August 1, 2020
+
+**Today's Progress**: I finished the rough draft of the Gex generator. Next up is to port that to a discord bot. Also started SASS challenges on FCC
+
+**Thoughts:** jQuery - I wish these sections had more challenging lessons. 
+
+**Link to work:** [jQuery Challenges](https://www.freecodecamp.org/learn/front-end-libraries/jquery/learn-how-script-tags-and-document-ready-work)
+**Link to work:** [Gex Quote Generator](https://codepen.io/Trinitui/pen/yLedZpx)
