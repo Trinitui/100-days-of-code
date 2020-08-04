@@ -82,3 +82,9 @@
 
 **Link to work:** [React Challenges](https://www.freecodecamp.org/learn/front-end-libraries/react/access-props-using-this-props)
 
+### Day 9: August 4, 2020
+
+**Today's Progress**: Continued with React Challenges
+
+**Link to work:** [React Challenges](https://www.freecodecamp.org/learn/front-end-libraries/react/access-props-using-this-props)
+
