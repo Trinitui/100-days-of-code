@@ -76,7 +76,7 @@
 
 **Link to work:** [Gex Quote Generator](https://codepen.io/Trinitui/pen/yLedZpx)
 
-### Day 7: August 2, 2020
+### Day 8: August 3, 2020
 
 **Today's Progress**: Continued with React Challenges
 
