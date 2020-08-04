@@ -75,3 +75,10 @@
 **Link to work:** [jQuery Challenges](https://www.freecodecamp.org/learn/front-end-libraries/jquery/learn-how-script-tags-and-document-ready-work)
 
 **Link to work:** [Gex Quote Generator](https://codepen.io/Trinitui/pen/yLedZpx)
+
+### Day 7: August 2, 2020
+
+**Today's Progress**: Continued with React Challenges
+
+**Link to work:** [React Challenges](https://www.freecodecamp.org/learn/front-end-libraries/react/access-props-using-this-props)
+
