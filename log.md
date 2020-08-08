@@ -102,3 +102,12 @@
 
 **Link to work:** [React Challenges](https://www.freecodecamp.org/learn/front-end-libraries/react/pass-a-callback-as-props)
 
+### Day 12: August 8, 2020
+
+**Today's Progress**: Skipped a day. Continued with React Challenges. Built "AndrewBot" in Discord
+
+**Thoughts:** These are a lot more challenging than the other challenges. But, I'm working through them slowly but surely - it reminds me of when I started the JS challenges back in 2017. 
+
+**Link to work:** [React Challenges](https://www.freecodecamp.org/learn/front-end-libraries/react/pass-a-callback-as-props)
+**Link to work:** ADD: AndrewBot Repo when built
+
