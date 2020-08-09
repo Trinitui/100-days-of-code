@@ -114,7 +114,7 @@
 
 ### Day 13: August 9, 2020
 
-**Today's Progress**: Finished with React Challenges. Organized AndrewBot in git a bit better.
+**Today's Progress**: Finished with React Challenges. Organized AndrewBot in git a bit better. Started Redux Challenges.
 
 **Thoughts:** React was hard! But I have a good grasp of it. I should try building something with it. 
 
