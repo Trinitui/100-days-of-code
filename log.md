@@ -109,6 +109,7 @@
 **Thoughts:** These are a lot more challenging than the other challenges. But, I'm working through them slowly but surely - it reminds me of when I started the JS challenges back in 2017. 
 
 **Link to work:** [React Challenges](https://www.freecodecamp.org/learn/front-end-libraries/react/pass-a-callback-as-props)
+
 **Link to work:** AndrewBot (private repo)
 
 ### Day 13: August 9, 2020
@@ -118,5 +119,6 @@
 **Thoughts:** React was hard! But I have a good grasp of it. I should try building something with it. 
 
 **Link to work:** [React Challenges](https://www.freecodecamp.org/learn/front-end-libraries/react/pass-a-callback-as-props)
+
 **Link to work:** AndrewBot
 
