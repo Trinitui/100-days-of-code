@@ -130,4 +130,10 @@
 
 **Link to work:** AndrewBot
 
+### Day 15: August 11, 2020
 
+**Today's Progress**: Deployed newquote Gex generator, made formatting changes. 
+
+**Thoughts:** Still taking abreak from FCC. I want to build apps I think. One at least to help out with work tasks. Like a new and improved EMD Tools :) 
+
+**Link to work:** AndrewBot
