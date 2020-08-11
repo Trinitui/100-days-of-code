@@ -122,3 +122,12 @@
 
 **Link to work:** AndrewBot
 
+### Day 14: August 10, 2020
+
+**Today's Progress**: Building a new Gex Quote Generator in AndrewBot. Started a new file locally on my PC for this. 
+
+**Thoughts:** I'm getting burned out of React and Redux challenges. Taking a break to build a quote generator in AndrewBot.
+
+**Link to work:** AndrewBot
+
+
