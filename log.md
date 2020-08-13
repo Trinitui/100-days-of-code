@@ -137,3 +137,11 @@
 **Thoughts:** Still taking abreak from FCC. I want to build apps I think. One at least to help out with work tasks. Like a new and improved EMD Tools :) 
 
 **Link to work:** AndrewBot
+
+### Day 16: August 12, 2020
+
+**Today's Progress**: Made improvements to the Gex functionality in AndrewBot, as well as spent a decent amount of time debugging whatever the heck was going on with GitHub actions. Ended up removing it.  
+
+**Thoughts:** Still taking a break from FCC. Since I spent so long trying to find out what went wrong -- am I a real developer now??? I also thought about making a better version of my rocket page FCC challenge. Might give me a good reason to use other services and run a full stack project.
+
+**Link to work:** AndrewBot
