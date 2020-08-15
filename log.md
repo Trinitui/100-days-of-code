@@ -145,3 +145,13 @@
 **Thoughts:** Still taking a break from FCC. Since I spent so long trying to find out what went wrong -- am I a real developer now??? I also thought about making a better version of my rocket page FCC challenge. Might give me a good reason to use other services and run a full stack project.
 
 **Link to work:** AndrewBot
+
+
+### Day 16: August 15, 2020
+
+**Today's Progress**: Finished Redux challenges. Working on React and Redux challenges now. The break was good and I feel like I understand React and Redux better. 
+
+**Thoughts:** I took two days off, which was really helpful. I went really hard and it was difficult to sleep without being woken up with strange coding-related dreams.
+I think I want to build a web app, probably in AWS, to host API calls to NASA and SpaceX apis. I think that's a good start, and I've scoped it out here: [RocketPage Mockup](https://www.figma.com/file/JHsKnEvnGT9lrgX3E2s7Ey/RocketPage-API-mockup?node-id=0%3A1).
+
+**Link to work:** https://www.freecodecamp.org/learn/front-end-libraries/react-and-redux
