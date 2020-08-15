@@ -147,7 +147,7 @@
 **Link to work:** AndrewBot
 
 
-### Day 16: August 15, 2020
+### Day 17: August 15, 2020
 
 **Today's Progress**: Finished Redux challenges. Working on React and Redux challenges now. The break was good and I feel like I understand React and Redux better. 
 
