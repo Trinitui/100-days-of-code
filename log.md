@@ -155,3 +155,11 @@
 I think I want to build a web app, probably in AWS, to host API calls to NASA and SpaceX apis. I think that's a good start, and I've scoped it out here: [RocketPage Mockup](https://www.figma.com/file/JHsKnEvnGT9lrgX3E2s7Ey/RocketPage-API-mockup?node-id=0%3A1).
 
 **Link to work:** https://www.freecodecamp.org/learn/front-end-libraries/react-and-redux
+
+### Day 18: August 16, 2020
+
+**Today's Progress**: Working on React and Redux challenges. React and Redux are still hard :( I also started digging around in AWS more too/ 
+
+**Thoughts:** there's a lot more to do :) 
+
+**Link to work:** https://www.freecodecamp.org/learn/front-end-libraries/react-and-redux
