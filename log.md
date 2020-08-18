@@ -163,3 +163,14 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 **Thoughts:** there's a lot more to do :) 
 
 **Link to work:** https://www.freecodecamp.org/learn/front-end-libraries/react-and-redux
+
+### Day 19: August 17, 2020
+
+**Today's Progress**: Took a break from FCC Challenges and instead watched an FCC video about APIs and played around with the NASA API a bit. 
+
+**Thoughts:** Slowly getting more familair with APIs!
+
+**Link to work:** [Video about APIs](https://www.youtube.com/watch?v=GZvSYJDk-us)
+
+**Link to work:** [NASA APIs](https://api.nasa.gov/)
+
