@@ -174,3 +174,15 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 
 **Link to work:** [NASA APIs](https://api.nasa.gov/)
 
+### Day 20: August 18, 2020
+
+**Today's Progress**: Busy Day! We moved into Walpole, but I was able to sneak some time into making a Glitch.me page for my RocketPage concept. That is linked below. I am also mostly done with that API video. It's been invaluable for this current project. 
+
+**Thoughts:** It's like magic getting some API's to work and getting a project up and running. There are so many tools and libraries as well, web dev is actually more about being savvy than anything else. Maybe. 
+
+**Link to work:** [Video about APIs](https://www.youtube.com/watch?v=GZvSYJDk-us)
+
+**Link to work:** [NASA APIs](https://api.nasa.gov/)
+
+**Link to work:** [RocketPage on Glitch.me](https://glitch.com/edit/#!/rocketpage?path=script.js%3A27%3A4)
+
