@@ -200,8 +200,17 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 
 **Today's Progress**: More work in Codepen! I got the SpaceX API section good enough for now. I want to make it programmatic as a next step. NASA API is being tricky.
 
-**Thoughts:** I
+**Thoughts:** 
 
+**Link to work:** [RocketPage on CodePen](https://codepen.io/Trinitui/full/YzqyvJL)
+
+**Link to work:** [RocketPage on Glitch.me](https://glitch.com/edit/#!/rocketpage?path=script.js%3A27%3A4)
+
+### Day 23: August 21, 2020
+
+**Today's Progress**: More work in Codepen! I got both API's working and need to tweak the layout more. I also want to get the RocketLab API in there too. 
+
+**Thoughts:** 
 
 **Link to work:** [RocketPage on CodePen](https://codepen.io/Trinitui/full/YzqyvJL)
 
