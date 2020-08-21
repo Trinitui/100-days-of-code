@@ -186,7 +186,7 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 
 **Link to work:** [RocketPage on Glitch.me](https://glitch.com/edit/#!/rocketpage?path=script.js%3A27%3A4)
 
-### Day 21: August 10, 2020
+### Day 21: August 19, 2020
 
 **Today's Progress**: Tried debugging Glitch but to no avail. Started to move the project to codepen instead.
 
@@ -196,7 +196,7 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 
 **Link to work:** [RocketPage on Glitch.me](https://glitch.com/edit/#!/rocketpage?path=script.js%3A27%3A4)
 
-### Day 22: August 21, 2020
+### Day 22: August 20, 2020
 
 **Today's Progress**: More work in Codepen! I got the SpaceX API section good enough for now. I want to make it programmatic as a next step. NASA API is being tricky.
 
