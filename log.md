@@ -216,4 +216,20 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 
 **Link to work:** [RocketPage on Glitch.me](https://glitch.com/edit/#!/rocketpage?path=script.js%3A27%3A4)
 
+### Day 23: August 22, 2020
+
+**Today's Progress**: More work in Codepen! Lots of tweaks to the page and got buttons to work there too. 
+
+**Thoughts:** It's really great to make these steps in an app you designed.
+
+**Link to work:** [RocketPage on CodePen](https://codepen.io/Trinitui/full/YzqyvJL)
+
+### Day 24: August 23, 2020
+
+**Today's Progress**: More work in Codepen! Added in a section for upcoming launches. Now I want to take things a step further and collate and modify API calls.
+
+**Thoughts:** Now that I feel comfortable with this level of API work, it's time to take the next step. 
+
+**Link to work:** [RocketPage on CodePen](https://codepen.io/Trinitui/full/YzqyvJL)
+
 
