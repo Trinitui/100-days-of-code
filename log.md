@@ -233,3 +233,12 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 **Link to work:** [RocketPage on CodePen](https://codepen.io/Trinitui/full/YzqyvJL)
 
 
+### Day 25: August 25, 2020
+
+**Today's Progress**: More work in Codepen! And on AndrewBot. That still isn't totally working. 
+
+**Thoughts:** I need to fix RocketPage now - CSS layout is borked on mobile
+
+**Link to work:** [RocketPage on CodePen](https://codepen.io/Trinitui/full/YzqyvJL)
+
+
