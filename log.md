@@ -250,4 +250,10 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 
 **Link to work:** [RocketPage on CodePen](https://codepen.io/Trinitui/full/YzqyvJL)
 
+### Day 27: August 29, 2020
 
+**Today's Progress**: I've spent the past couple of days, and today as well, cleaning up my RocketPage Project and thinking through my next one. I think I want to extend on what I didd with RocketPage and make a dashboard for SpaceX Data. Eventually this will need to make it into a Website.
+
+**Thoughts:** It's really easy to fill an hour a day with code - and that's not even with learning about coding too. There's a wild world out there that I am exploring!
+
+**Link to work:** [RocketPage on CodePen](https://codepen.io/Trinitui/full/YzqyvJL)
