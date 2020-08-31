@@ -257,3 +257,15 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 **Thoughts:** It's really easy to fill an hour a day with code - and that's not even with learning about coding too. There's a wild world out there that I am exploring!
 
 **Link to work:** [RocketPage on CodePen](https://codepen.io/Trinitui/full/YzqyvJL)
+
+### Day 28: August 30, 2020
+
+**Today's Progress**: I read a bit about different projects, and made some fixes to RocketPage and played with Postman APIs. Tried to get my EU4 achievments page working but CORS is going to put a damper on things there. Then, I started work on a SpaceX Dashboard project!! GitHub link below. This will be a full page NodeJS app, and will give me experience with full stack dev.
+
+**Link to work:** [RocketPage on CodePen](https://codepen.io/Trinitui/full/YzqyvJL)
+
+**Link to work:** [EU4 Achievments Page](https://codepen.io/Trinitui/pen/YovYxV)
+
+**Link to work:** [SpaceX Dashboard](https://github.com/Trinitui/SpaceX-Dashboard)
+
+
