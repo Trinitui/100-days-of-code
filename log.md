@@ -268,4 +268,11 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 
 **Link to work:** [SpaceX Dashboard](https://github.com/Trinitui/SpaceX-Dashboard)
 
+### Day 29: August 31, 2020
 
+**Today's Progress**: Continuing on with the tutorial for the SpaceX Dashboard. Made a bit of progress but it can be start and stop when adapting a tutorial and learning new things. There's a lot that still doesn't make sense that I'm sure will at some point. I also fixed some bugs in RocketPage, there's more to squash but I want to focus more on the Dash project.
+
+**Thoughts** Finding the time to code can be difficult, and learn about new things doubly so. But it's always rewarding when you force yourself, and remind yourself that an hour spent trying to figure out why something doesn't work teaches you more than an hour copy and pasting someone else's work. :) 
+
+
+**Link to work:** [SpaceX Dashboard](https://github.com/Trinitui/SpaceX-Dashboard)
