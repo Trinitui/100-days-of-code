@@ -276,3 +276,17 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 
 
 **Link to work:** [SpaceX Dashboard](https://github.com/Trinitui/SpaceX-Dashboard)
+
+### Day 30: Sep 1, 2020
+
+**Today's Progress**: Continuing on with the tutorial for the SpaceX Dashboard. Made a bit of progress but it can be start and stop when adapting a tutorial and learning new things. I really like coding tho! It's really fun.
+
+**Thoughts** 
+
+**Link to work:** [SpaceX Dashboard](https://github.com/Trinitui/SpaceX-Dashboard)
+
+### Day 31: Sep 2, 2020
+
+**Today's Progress**: Added some functionality to AndrewBot - it can now lookup a bible verse :facepalm:. Probably going to work more on SpaceX Dash tonight.
+
+**Link to work:** AndrewBot
