@@ -287,6 +287,8 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 
 ### Day 31: Sep 2, 2020
 
-**Today's Progress**: Added some functionality to AndrewBot - it can now lookup a bible verse :facepalm:. Probably going to work more on SpaceX Dash tonight.
+**Today's Progress**: Added some functionality to AndrewBot - it can now lookup a bible verse :facepalm:. worked more on the dashboard project tonight. Debugging is hard but feels goodd hwen everything works :) 
 
 **Link to work:** AndrewBot
+
+**Link to work:** [SpaceX Dashboard](https://github.com/Trinitui/SpaceX-Dashboard)
