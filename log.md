@@ -292,3 +292,11 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 **Link to work:** AndrewBot
 
 **Link to work:** [SpaceX Dashboard](https://github.com/Trinitui/SpaceX-Dashboard)
+
+### Day 32: Sep 4, 2020
+
+**Today's Progress**: Making more progress on the SpaceX Dashboard project. 
+
+**Thoughts** Working without a framework is difficult, as is trying to troubleshoot errors. But when it all works it's a great feeling :) 
+
+**Link to work:** [SpaceX Dashboard](https://github.com/Trinitui/SpaceX-Dashboard)
