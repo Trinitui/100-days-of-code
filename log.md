@@ -295,8 +295,9 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 
 ### Day 32: Sep 4, 2020
 
-**Today's Progress**: Making more progress on the SpaceX Dashboard project. 
+**Today's Progress**: Making more progress on the SpaceX Dashboard project. I created some fiddles and codepens to prototype some of what I want to build. This is a lot of work. 
 
-**Thoughts** Working without a framework is difficult, as is trying to troubleshoot errors. But when it all works it's a great feeling :) 
+**Thoughts** Working without a framework is difficult, as is trying to troubleshoot errors. But when it all works it's a great feeling :) It's hard going, and part of me wants to give up a little bit whenever there is yet another new challenge ahead of me. I just need to keep going though, there's always a way to make it work, even if you have to go backwards. 
 
 **Link to work:** [SpaceX Dashboard](https://github.com/Trinitui/SpaceX-Dashboard)
+
