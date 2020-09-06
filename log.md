@@ -301,3 +301,11 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 
 **Link to work:** [SpaceX Dashboard](https://github.com/Trinitui/SpaceX-Dashboard)
 
+### Day 33: Sep 5, 2020
+
+**Today's Progress**: I decided to prototype what I want the dashboard to look like and how it's gonna operate in both jsfiddle and codepen. So far so good! 
+
+**Thoughts** I might want to use Moon.js as a framework for this project. I am leaning slightly towards re-doing a bit of the work for the dash project and moving it away from the guide. I need to read more of the guide to see if I am missing any big steps first though. Fun ;) 
+
+**Link to work:** [SpaceX Dashboard prototype](https://codepen.io/Trinitui/pen/XWdVWGN)
+
