@@ -309,3 +309,13 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 
 **Link to work:** [SpaceX Dashboard prototype](https://codepen.io/Trinitui/pen/XWdVWGN)
 
+### Day 34: Sep 6, 2020
+
+**Today's Progress**: Spent some time this morning making changes to the spacex dash prototype, and registered trinitui.com!
+
+**Thoughts** I think instead of dealing with starting a new dash thing, I'll use the nasa apod and spaceX codepen I made for now?
+
+**Link to work:** [SpaceX Dashboard prototype](https://codepen.io/Trinitui/pen/XWdVWGN)
+
+**Link to work:** [RocketPage on CodePen](https://codepen.io/Trinitui/full/YzqyvJL)
+
