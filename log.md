@@ -311,11 +311,13 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 
 ### Day 34: Sep 6, 2020
 
-**Today's Progress**: Spent some time this morning making changes to the spacex dash prototype, and registered trinitui.com!
+**Today's Progress**: Spent some time this morning making changes to the spacex dash prototype, and registered trinitui.com! Also - I started taking a course in Scrimba for React. Very Helpful!!!! I want to finish up some FCC work before moving on with the site. :) 
 
-**Thoughts** I think instead of dealing with starting a new dash thing, I'll use the nasa apod and spaceX codepen I made for now?
+**Thoughts** I think instead of dealing with starting a new dash thing, I'll use the nasa apod and spaceX codepen I made for now? Also React isn't that bad, I just needed more experience. 
 
 **Link to work:** [SpaceX Dashboard prototype](https://codepen.io/Trinitui/pen/XWdVWGN)
 
 **Link to work:** [RocketPage on CodePen](https://codepen.io/Trinitui/full/YzqyvJL)
+
+**Link to work:** [Scrimba React Course](https://scrimba.com/p/p7P5Hd/co4ae-f6fb42d1f60f)
 
