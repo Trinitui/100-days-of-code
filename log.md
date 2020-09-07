@@ -321,3 +321,13 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 
 **Link to work:** [Scrimba React Course](https://scrimba.com/p/p7P5Hd/co4ae-f6fb42d1f60f)
 
+### Day 35: Sep 7, 2020
+
+**Today's Progress**: I moved the Gex Arrays out of AndrewBot's main Bot.js file. That was a long time coming - but good experience on module dev too. Took a bit to get working. Also continuing with the Scrimba course. So far so good!
+
+**Thoughts** 
+
+**Link to work:** [AndrewBot](https://github.com/Trinitui/AndrewBot)
+
+**Link to work:** [Scrimba React Course](https://scrimba.com/p/p7P5Hd/co4ae-f6fb42d1f60f)
+
