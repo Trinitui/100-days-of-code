@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: July 26, 2020
+## Day 0: July 26, 2020
 
 **Today's Progress**: Got a variable from JS to show in HTML! And continued working on the app while taking a small break from FCC projects. I also added in code to make that variable persistent across page loads, which was great. I dove back into FCC projects as well, completing the Telephone Number Validator and starting the Cash Register.
 
@@ -88,7 +88,7 @@
 
 **Link to work:** [React Challenges](https://www.freecodecamp.org/learn/front-end-libraries/react/access-props-using-this-props)
 
-### Day 10: August 5, 2020
+## Day 10: August 5, 2020
 
 **Today's Progress**: Continued with React Challenges
 
@@ -174,7 +174,7 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 
 **Link to work:** [NASA APIs](https://api.nasa.gov/)
 
-### Day 20: August 18, 2020
+## Day 20: August 18, 2020
 
 **Today's Progress**: Busy Day! We moved into Walpole, but I was able to sneak some time into making a Glitch.me page for my RocketPage concept. That is linked below. I am also mostly done with that API video. It's been invaluable for this current project. 
 
@@ -277,7 +277,7 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 
 **Link to work:** [SpaceX Dashboard](https://github.com/Trinitui/SpaceX-Dashboard)
 
-### Day 30: Sep 1, 2020
+## Day 30: Sep 1, 2020
 
 **Today's Progress**: Continuing on with the tutorial for the SpaceX Dashboard. Made a bit of progress but it can be start and stop when adapting a tutorial and learning new things. I really like coding tho! It's really fun.
 
