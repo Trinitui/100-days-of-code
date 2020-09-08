@@ -323,9 +323,9 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 
 ### Day 35: Sep 7, 2020
 
-**Today's Progress**: I moved the Gex Arrays out of AndrewBot's main Bot.js file. That was a long time coming - but good experience on module dev too. Took a bit to get working. Also continuing with the Scrimba course. So far so good!
+**Today's Progress:**: I moved the Gex Arrays out of AndrewBot's main Bot.js file. That was a long time coming - but good experience on module dev too. Took a bit to get working. Also continuing with the Scrimba course. So far so good!
 
-**Thoughts** 
+**Thoughts:** React is getting easier. I'm glad too, and I'm learning something important here about how to learn effectively online. 
 
 **Link to work:** [AndrewBot](https://github.com/Trinitui/AndrewBot)
 
