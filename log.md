@@ -331,3 +331,11 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 
 **Link to work:** [Scrimba React Course](https://scrimba.com/p/p7P5Hd/co4ae-f6fb42d1f60f)
 
+### Day 36: Sep 9, 2020
+
+**Today's Progress:**: Continued with the Scrimba React course.
+
+**Thoughts:** Skipped a day. React is hard, and setting and manipulating state is pretty difficult. I just have to get better at it, and grind through it. I love Scrimba though!
+
+**Link to work:** [Scrimba React Course](https://scrimba.com/p/p7P5Hd/co4ae-f6fb42d1f60f)
+
