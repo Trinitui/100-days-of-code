@@ -354,3 +354,13 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 **Thoughts:** I feel like I'm making progress on React and I'd like to make a project with it soon.
 
 **Link to work:** [Scrimba React Course](https://scrimba.com/p/p7P5Hd/co4ae-f6fb42d1f60f)
+
+### Day 39: Sep 12, 2020
+
+**Today's Progress:** Finished the Scrimba React course.
+
+**Thoughts:** I finished the Scrimba course! It was really great, and I actually kinda want to continue to learn more React! Back to FCC Challenges to finish up the Front End Libraries Certification.
+
+**Link to work:** [Scrimba React Course](https://scrimba.com/p/p7P5Hd/co4ae-f6fb42d1f60f)
+
+**Link to work:** [Redux Courses](https://www.freecodecamp.org/learn/)
