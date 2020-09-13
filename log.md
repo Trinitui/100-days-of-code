@@ -366,3 +366,11 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 **Link to work:** [Redux Courses](https://www.freecodecamp.org/learn/)
 
 **Link to work:** [Quote Machine Showcase](https://codepen.io/Trinitui/pen/poyVYbW)
+
+## Day 40: Sep 13, 2020
+
+**Today's Progress:** Started the Quote Machine Challenge! I stood up a React App from scratch! It was more challenging than I was expecting, but good practice. 
+
+**Thoughts:** It's fun to start a new project, but I always need inspiration when it comes to CSS / Layouts. I guess that will be my next task for this challenge. 
+
+**Link to work:** [Quote Machine Showcase](https://codepen.io/Trinitui/pen/poyVYbW)
