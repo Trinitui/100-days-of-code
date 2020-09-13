@@ -357,10 +357,12 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 
 ### Day 39: Sep 12, 2020
 
-**Today's Progress:** Finished the Scrimba React course.
+**Today's Progress:** Finished the Scrimba React course, Finished the FCC Redux and React-Redux challenges! Now On to the showcases.
 
-**Thoughts:** I finished the Scrimba course! It was really great, and I actually kinda want to continue to learn more React! Back to FCC Challenges to finish up the Front End Libraries Certification.
+**Thoughts:** I finished the Scrimba course! It was really great, and I actually kinda want to continue to learn more React! Back to FCC Challenges to finish up the Front End Libraries Certification. I kinda went lazy on the Redux and React-Redux stuff since I didn't really get the challenges and I'm not sure they fit what I want to do right now. I looked at some videos about Redux and I understand it's value. 
 
 **Link to work:** [Scrimba React Course](https://scrimba.com/p/p7P5Hd/co4ae-f6fb42d1f60f)
 
 **Link to work:** [Redux Courses](https://www.freecodecamp.org/learn/)
+
+**Link to work:** [Quote Machine Showcase](https://codepen.io/Trinitui/pen/poyVYbW)
