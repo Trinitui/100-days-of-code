@@ -374,3 +374,11 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 **Thoughts:** It's fun to start a new project, but I always need inspiration when it comes to CSS / Layouts. I guess that will be my next task for this challenge. 
 
 **Link to work:** [Quote Machine Showcase](https://codepen.io/Trinitui/pen/poyVYbW)
+
+## Day 41: Sep 15, 2020
+
+**Today's Progress:** Working on quote machine still.
+
+**Thoughts:** 
+
+**Link to work:** [Quote Machine Showcase](https://codepen.io/Trinitui/pen/poyVYbW)
