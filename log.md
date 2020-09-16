@@ -377,8 +377,10 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 
 ## Day 41: Sep 15, 2020
 
-**Today's Progress:** Working on quote machine still.
+**Today's Progress:** Working on quote machine still. And done with that! And I made some big progress on the Markdown viewer, which was easier than expected :D
 
-**Thoughts:** 
+**Thoughts:** React is getting a lot easier now that I am building with it. I really like the strategy of 100 days of code - no matter how much or little you do, it's just one out of 100 days... Like I got a lot done today, and a lot done other days, but I'm never burning through anything, time just flows by and I can do as much during a day as I want.
 
 **Link to work:** [Quote Machine Showcase](https://codepen.io/Trinitui/pen/poyVYbW)
+
+**Link to work:** [MarkDown Viewer](https://codepen.io/Trinitui/pen/ZEWjvGj)
