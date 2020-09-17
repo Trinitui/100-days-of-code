@@ -384,3 +384,11 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 **Link to work:** [Quote Machine Showcase](https://codepen.io/Trinitui/pen/poyVYbW)
 
 **Link to work:** [MarkDown Viewer](https://codepen.io/Trinitui/pen/ZEWjvGj)
+
+## Day 42: Sep 16, 2020
+
+**Today's Progress:** Quote Machine and MarkDown Viewer are done! I started on the Drum Machine now. 
+
+**Thoughts:** Here's my next challenge - styling and column-izing mapped array elements that React is creating dynamically. Fun. 
+
+**Link to work:** [Drum Machine](https://codepen.io/Trinitui/pen/bGpxEEq?editors=0110)
