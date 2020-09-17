@@ -387,7 +387,7 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 
 ## Day 42: Sep 16, 2020
 
-**Today's Progress:** Quote Machine and MarkDown Viewer are done! I started on the Drum Machine now. 
+**Today's Progress:** Quote Machine and MarkDown Viewer are done! I started on the Drum Machine now. I also got some books in a deal online - I'll be checking those out. 
 
 **Thoughts:** Here's my next challenge - styling and column-izing mapped array elements that React is creating dynamically. Fun. 
 
