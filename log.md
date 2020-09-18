@@ -392,3 +392,12 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 **Thoughts:** Here's my next challenge - styling and column-izing mapped array elements that React is creating dynamically. Fun. 
 
 **Link to work:** [Drum Machine](https://codepen.io/Trinitui/pen/bGpxEEq?editors=0110)
+
+## Day 43: Sep 17, 2020
+
+**Today's Progress:** Still working on the Drum Machine. Got those columns to work by using ```reactstrap```. 
+
+**Thoughts:** I learned a bit about how ```<audio>``` works in HTML. React adds a layer of complexity, but only if you want it to. Next up I need to make the drum machine actually work, but that's tomorrow's problem. :) 
+Sometimes I don't like just importing a library to solve a problem - though I guess my hesitance could be solved by looking into what that library is doing and implementing it on my project.
+
+**Link to work:** [Drum Machine](https://codepen.io/Trinitui/pen/bGpxEEq?editors=0110)
