@@ -375,7 +375,7 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 
 **Link to work:** [Quote Machine Showcase](https://codepen.io/Trinitui/pen/poyVYbW)
 
-## Day 41: Sep 15, 2020
+### Day 41: Sep 15, 2020
 
 **Today's Progress:** Working on quote machine still. And done with that! And I made some big progress on the Markdown viewer, which was easier than expected :D
 
@@ -385,7 +385,7 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 
 **Link to work:** [MarkDown Viewer](https://codepen.io/Trinitui/pen/ZEWjvGj)
 
-## Day 42: Sep 16, 2020
+### Day 42: Sep 16, 2020
 
 **Today's Progress:** Quote Machine and MarkDown Viewer are done! I started on the Drum Machine now. I also got some books in a deal online - I'll be checking those out. 
 
@@ -393,7 +393,7 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 
 **Link to work:** [Drum Machine](https://codepen.io/Trinitui/pen/bGpxEEq?editors=0110)
 
-## Day 43: Sep 17, 2020
+### Day 43: Sep 17, 2020
 
 **Today's Progress:** Still working on the Drum Machine. Got those columns to work by using ```reactstrap```. 
 
@@ -401,3 +401,21 @@ I think I want to build a web app, probably in AWS, to host API calls to NASA an
 Sometimes I don't like just importing a library to solve a problem - though I guess my hesitance could be solved by looking into what that library is doing and implementing it on my project.
 
 **Link to work:** [Drum Machine](https://codepen.io/Trinitui/pen/bGpxEEq?editors=0110)
+
+### Day 44: Sep 18, 2020
+
+**Today's Progress:** Still working on the Drum Machine.
+
+**Thoughts:** 
+
+**Link to work:** [Drum Machine](https://codepen.io/Trinitui/pen/bGpxEEq?editors=0110)
+
+### Day 45: Sep 20, 2020
+
+**Today's Progress:** Finished the Drum Machine! That was seriously challenging. Started on the JS Calc too. 
+
+**Thoughts:** Man that was a hard challenge. I learned a lot about how to manipulate the DOM, get things to work when you are convinced they aren't, and most importantly to step away from the computer while considering the issue. That really helped when I was trying to get keypresses working - turns out that instead of trying to map "q" into the DOM, I was able to use ```document.getElementById(variablename)``` to manipulate the DOM.
+
+**Link to work:** [Drum Machine](https://codepen.io/Trinitui/pen/bGpxEEq?editors=0110)
+
+**Link to work:** [JS Calc](https://codepen.io/Trinitui/pen/WNwYQxW)
