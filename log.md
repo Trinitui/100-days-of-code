@@ -419,3 +419,11 @@ Sometimes I don't like just importing a library to solve a problem - though I gu
 **Link to work:** [Drum Machine](https://codepen.io/Trinitui/pen/bGpxEEq?editors=0110)
 
 **Link to work:** [JS Calc](https://codepen.io/Trinitui/pen/WNwYQxW)
+
+### Day 46: Sep 21, 2020
+
+**Today's Progress:** Continuing the JS Calc 
+
+**Thoughts:** I've finished a simple working calculator. Now I need to add in multiple operations and negative numbers and all that good stuff. I don't know how I'm going to do that but I'm sure I'll think of something or can search other examples. Using ```switch case``` is fun.
+
+**Link to work:** [JS Calc](https://codepen.io/Trinitui/pen/WNwYQxW)
