@@ -428,3 +428,13 @@ Sometimes I don't like just importing a library to solve a problem - though I gu
 Also planned how to tackle the advanced stuff in the calendar, with a lot of notes in Codepen.
 
 **Link to work:** [JS Calc](https://codepen.io/Trinitui/pen/WNwYQxW)
+
+### Day 47: Sep 22, 2020
+
+**Today's Progress:** Continuing the JS Calc 
+
+**Thoughts:** Getting closer to the real goals of the calculator. It's fun to think about what I have to do to get this working! I like the strategy of it and when something fails to work, it isn't disheartening. It's great :)
+
+For instance, today I implemented more values in state, another flag for arithmatc and a queued equals value to keep track of the result of arithmatic behind the scenes. It's not quite working, and the whole ```"1"``` vs ```1``` issue is rearing it's head big time. 
+
+**Link to work:** [JS Calc](https://codepen.io/Trinitui/pen/WNwYQxW)
