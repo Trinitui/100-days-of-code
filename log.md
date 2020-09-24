@@ -431,10 +431,20 @@ Also planned how to tackle the advanced stuff in the calendar, with a lot of not
 
 ### Day 47: Sep 22, 2020
 
-**Today's Progress:** Continuing the JS Calc 
+**Today's Progress:** Continuing with the JS Calc 
 
 **Thoughts:** Getting closer to the real goals of the calculator. It's fun to think about what I have to do to get this working! I like the strategy of it and when something fails to work, it isn't disheartening. It's great :)
 
 For instance, today I implemented more values in state, another flag for arithmatc and a queued equals value to keep track of the result of arithmatic behind the scenes. It's not quite working, and the whole ```"1"``` vs ```1``` issue is rearing it's head big time. 
+
+**Link to work:** [JS Calc](https://codepen.io/Trinitui/pen/WNwYQxW)
+
+### Day 48: Sep 23, 2020
+
+**Today's Progress:** Continuing with the JS Calc 
+
+**Thoughts:** So I investigted the regex method. After some fiddling I built a regex, ```/(\d+[\+\-\/\*]+)+(\d+)/``` that should match against any legit input into the calculator. I then did some investigation on how to parse what would be the input and found that I could use eval(). That's apparently a big no no to use out in the open, but I think if I only use it after testing for that regex I should be good. 
+
+So a user types in like 2+3 and then = and behind the scenes there's a test against the regex - if it looks good then it runs eval("2+3") and sets several variables equal to that answer. That should simplify things greatly compared to last night's challenge, which was going to be too complex to implement sanely. 
 
 **Link to work:** [JS Calc](https://codepen.io/Trinitui/pen/WNwYQxW)
