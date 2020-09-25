@@ -448,3 +448,11 @@ For instance, today I implemented more values in state, another flag for arithma
 So a user types in like 2+3 and then = and behind the scenes there's a test against the regex - if it looks good then it runs eval("2+3") and sets several variables equal to that answer. That should simplify things greatly compared to last night's challenge, which was going to be too complex to implement sanely. 
 
 **Link to work:** [JS Calc](https://codepen.io/Trinitui/pen/WNwYQxW)
+
+### Day 49: Sep 24, 2020
+
+**Today's Progress:** Continuing with the JS Calc 
+
+**Thoughts:** Regex was working ok but then started breaking things, so I decided to get rid of it for now. I'm using straight evals... :( . But it works!! Now I need to fix it up so that it passes all the tests. 
+
+**Link to work:** [JS Calc](https://codepen.io/Trinitui/pen/WNwYQxW)
