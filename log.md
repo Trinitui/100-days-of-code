@@ -456,3 +456,11 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 **Thoughts:** Regex was working ok but then started breaking things, so I decided to get rid of it for now. I'm using straight evals... :( . But it works!! Now I need to fix it up so that it passes all the tests. 
 
 **Link to work:** [JS Calc](https://codepen.io/Trinitui/pen/WNwYQxW)
+
+## Day 50: Sep 25, 2020
+
+**Today's Progress:** Finished work on the JS Calc.
+
+**Thoughts:** I want to fix up some stuff but it works well! Now on to the 25 + 5 clock.
+
+**Link to work:** [JS Calc](https://codepen.io/Trinitui/pen/WNwYQxW)
