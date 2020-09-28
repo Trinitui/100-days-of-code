@@ -464,3 +464,21 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 **Thoughts:** I want to fix up some stuff but it works well! Now on to the 25 + 5 clock.
 
 **Link to work:** [JS Calc](https://codepen.io/Trinitui/pen/WNwYQxW)
+
+**Link to work:** [25+5 Clock](https://codepen.io/Trinitui/pen/gOrEerL?editors=0010)
+
+## Day 51: Sep 26, 2020
+
+**Today's Progress:** Working on the 25+5 clock.
+
+**Thoughts:** Working on the 25+5 clock
+
+**Link to work:** [25+5 Clock](https://codepen.io/Trinitui/pen/gOrEerL?editors=0010)
+
+## Day 52: Sep 27, 2020
+
+**Today's Progress:** Working on the 25+5 clock.
+
+**Thoughts:** Working on the 25+5 clock
+
+**Link to work:** [25+5 Clock](https://codepen.io/Trinitui/pen/gOrEerL?editors=0010)
