@@ -467,7 +467,7 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 
 **Link to work:** [25+5 Clock](https://codepen.io/Trinitui/pen/gOrEerL?editors=0010)
 
-## Day 51: Sep 26, 2020
+### Day 51: Sep 26, 2020
 
 **Today's Progress:** Working on the 25+5 clock.
 
@@ -475,10 +475,26 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 
 **Link to work:** [25+5 Clock](https://codepen.io/Trinitui/pen/gOrEerL?editors=0010)
 
-## Day 52: Sep 27, 2020
+### Day 52: Sep 27, 2020
 
 **Today's Progress:** Working on the 25+5 clock.
 
 **Thoughts:** Working on the 25+5 clock
+
+**Link to work:** [25+5 Clock](https://codepen.io/Trinitui/pen/gOrEerL?editors=0010)
+
+### Day 53: Sep 28, 2020
+
+**Today's Progress:** Working on the 25+5 clock.
+
+**Thoughts:** Working on the 25+5 clock
+
+**Link to work:** [25+5 Clock](https://codepen.io/Trinitui/pen/gOrEerL?editors=0010)
+
+### Day 54: Sep 29, 2020
+
+**Today's Progress:** Finished up the functional version of the clock.
+
+**Thoughts:** I need to fix up my clock so that it passes the FCC tests, but it's a good rough version of a clock! It does everything it needs to. 
 
 **Link to work:** [25+5 Clock](https://codepen.io/Trinitui/pen/gOrEerL?editors=0010)
