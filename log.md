@@ -498,3 +498,11 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 **Thoughts:** I need to fix up my clock so that it passes the FCC tests, but it's a good rough version of a clock! It does everything it needs to. 
 
 **Link to work:** [25+5 Clock](https://codepen.io/Trinitui/pen/gOrEerL?editors=0010)
+
+### Day 55: Sep 30, 2020
+
+**Today's Progress:** Work on getting the clock to meet FCC tests
+
+**Thoughts:** onMouseDown !== onClick I learned today. Trying to get more tests to pass. 
+
+**Link to work:** [25+5 Clock](https://codepen.io/Trinitui/pen/gOrEerL?editors=0010)
