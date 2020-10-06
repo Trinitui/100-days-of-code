@@ -527,6 +527,6 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 
 **Today's Progress:** Finished the Clock!
 
-**Thoughts:** Put a lot of work into it after not working on the clock for two days. It felt terrible not coding for a couple of days :o 
+**Thoughts:** Put a lot of work into it after not working on the clock for two days. It felt terrible not coding for a couple of days :o I didn't finish the JS Calc and I can't in good faith get the certification without putting in more effort there. My next task is to finish that up for real to get the certification. 
 
 **Link to work:** [25+5 Clock](https://codepen.io/Trinitui/pen/gOrEerL?editors=0010)
