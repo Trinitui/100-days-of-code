@@ -506,3 +506,27 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 **Thoughts:** onMouseDown !== onClick I learned today. Trying to get more tests to pass. 
 
 **Link to work:** [25+5 Clock](https://codepen.io/Trinitui/pen/gOrEerL?editors=0010)
+
+### Day 56: Oct 1, 2020
+
+**Today's Progress:** Work on getting the clock to meet FCC tests
+
+**Thoughts:** onMouseDown !== onClick I learned today. Trying to get more tests to pass. 
+
+**Link to work:** [25+5 Clock](https://codepen.io/Trinitui/pen/gOrEerL?editors=0010)
+
+### Day 57: Oct2, 2020
+
+**Today's Progress:** Work on getting the clock to meet FCC tests
+
+**Thoughts:** onMouseDown !== onClick I learned today. Trying to get more tests to pass. 
+
+**Link to work:** [25+5 Clock](https://codepen.io/Trinitui/pen/gOrEerL?editors=0010)
+
+### Day 58: Oct 5, 2020
+
+**Today's Progress:** Finished the Clock!
+
+**Thoughts:** Put a lot of work into it after not working on the clock for two days. It felt terrible not coding for a couple of days :o 
+
+**Link to work:** [25+5 Clock](https://codepen.io/Trinitui/pen/gOrEerL?editors=0010)
