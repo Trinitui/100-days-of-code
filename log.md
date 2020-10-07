@@ -515,7 +515,7 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 
 **Link to work:** [25+5 Clock](https://codepen.io/Trinitui/pen/gOrEerL?editors=0010)
 
-### Day 57: Oct2, 2020
+### Day 57: Oct 2, 2020
 
 **Today's Progress:** Work on getting the clock to meet FCC tests
 
@@ -530,3 +530,11 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 **Thoughts:** Put a lot of work into it after not working on the clock for two days. It felt terrible not coding for a couple of days :o I didn't finish the JS Calc and I can't in good faith get the certification without putting in more effort there. My next task is to finish that up for real to get the certification. 
 
 **Link to work:** [25+5 Clock](https://codepen.io/Trinitui/pen/gOrEerL?editors=0010)
+
+### Day 59: Oct 6, 2020
+
+**Today's Progress:** Fixes to the JS Calc
+
+**Thoughts:** I was able to get more tests working on the JS Calc project. That is coming along, though slowly.
+
+**Link to work:** [JS Calc](https://codepen.io/Trinitui/pen/VwjZMZe)
