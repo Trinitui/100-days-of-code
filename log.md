@@ -538,3 +538,11 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 **Thoughts:** I was able to get more tests working on the JS Calc project. That is coming along, though slowly.
 
 **Link to work:** [JS Calc](https://codepen.io/Trinitui/pen/VwjZMZe)
+
+## Day 60: Oct 6, 2020
+
+**Today's Progress:** Kinda restarted the JS Calc, trying to simplify things.
+
+**Thoughts:** I wanted to start it over a bit because I don't think my strat would work.
+
+**Link to work:** [JS Calc](https://codepen.io/Trinitui/pen/VwjZMZe)
