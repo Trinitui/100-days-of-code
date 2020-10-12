@@ -562,3 +562,19 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 **Thoughts:** Making forward progress finally!!
 
 **Link to work:** [JS Calc](https://codepen.io/Trinitui/pen/VwjZMZe)
+
+### Day 63: Oct 10, 2020
+
+**Today's Progress:** More work on JS Calc.
+
+**Thoughts:** Making forward progress finally!!
+
+**Link to work:** [JS Calc](https://codepen.io/Trinitui/pen/VwjZMZe)
+
+### Day 64: Oct 12, 2020
+
+**Today's Progress:** More work on JS Calc.
+
+**Thoughts:** Making forward progress finally!!
+
+**Link to work:** [JS Calc](https://codepen.io/Trinitui/pen/VwjZMZe)
