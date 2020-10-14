@@ -587,7 +587,7 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 
 **Link to work:** [JS Calc](https://codepen.io/Trinitui/pen/VwjZMZe)
 
-### Day 66: Oct 13, 2020
+### Day 66: Oct 14, 2020
 
 **Today's Progress:** Started the Microservices Challenges in FCC, and completed the node package challenges. 
 
