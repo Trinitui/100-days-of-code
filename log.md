@@ -578,3 +578,11 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 **Thoughts:** Making forward progress finally!!
 
 **Link to work:** [JS Calc](https://codepen.io/Trinitui/pen/VwjZMZe)
+
+### Day 65: Oct 13, 2020
+
+**Today's Progress:** Finished the JS Calc!! And claimed my Front End Certification :D 
+
+**Thoughts:** That was the hardest set of challenges, by far. It took me a while and some extra learning to get it all done, but well worth it. I don't know what my next challenge is - may I'll take a crack at something completely new, or something older? Happy to have this certification done!
+
+**Link to work:** [JS Calc](https://codepen.io/Trinitui/pen/VwjZMZe)
