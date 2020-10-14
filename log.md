@@ -586,3 +586,11 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 **Thoughts:** That was the hardest set of challenges, by far. It took me a while and some extra learning to get it all done, but well worth it. I don't know what my next challenge is - may I'll take a crack at something completely new, or something older? Happy to have this certification done!
 
 **Link to work:** [JS Calc](https://codepen.io/Trinitui/pen/VwjZMZe)
+
+### Day 66: Oct 13, 2020
+
+**Today's Progress:** Started the Microservices Challenges in FCC, and completed the node package challenges. 
+
+**Thoughts:** 
+
+**Link to work:** [NPM Basics](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/)
