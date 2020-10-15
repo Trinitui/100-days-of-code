@@ -594,3 +594,11 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 **Thoughts:** 
 
 **Link to work:** [NPM Basics](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/)
+
+### Day 67: Oct 15, 2020
+
+**Today's Progress:** Working through Express related challenges
+
+**Thoughts:** Express is a bit easier the second time around, and I like repl.it as a service too. 
+
+**Link to work:** [Express Challenges](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/chain-middleware-to-create-a-time-server)
