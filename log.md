@@ -602,3 +602,11 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 **Thoughts:** Express is a bit easier the second time around, and I like repl.it as a service too. 
 
 **Link to work:** [Express Challenges](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/chain-middleware-to-create-a-time-server)
+
+### Day 68: Oct 16, 2020
+
+**Today's Progress:** Finsihed Express-related challenges! Now onto the MongoDB ones.
+
+**Thoughts:**
+
+**Link to work:** [Mongo Challenges](https://www.freecodecamp.org/learn/apis-and-microservices/mongodb-and-mongoose)
