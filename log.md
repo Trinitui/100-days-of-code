@@ -610,3 +610,11 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 **Thoughts:**
 
 **Link to work:** [Mongo Challenges](https://www.freecodecamp.org/learn/apis-and-microservices/mongodb-and-mongoose)
+
+### Day 69: Oct 17, 2020
+
+**Today's Progress:** Working on MongoDB Challenges
+
+**Thoughts:**
+
+**Link to work:** [Mongo Challenges](https://www.freecodecamp.org/learn/apis-and-microservices/mongodb-and-mongoose)
