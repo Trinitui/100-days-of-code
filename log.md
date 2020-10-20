@@ -626,3 +626,11 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 **Thoughts:** MongoDB is hard! I need to find some other resources to help me get it.
 
 **Link to work:** [Mongo Challenges](https://www.freecodecamp.org/learn/apis-and-microservices/mongodb-and-mongoose)
+
+### Day 71: Oct 19, 2020
+
+**Today's Progress:** Worked on a status report prototype...
+
+**Thoughts:** 
+
+**Link to work:** [Status Report Concept](https://codepen.io/Trinitui/pen/xxOONLg)
