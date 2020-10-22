@@ -642,3 +642,11 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 **Thoughts:** I'm not sure I understand MongoDB 
 
 **Link to work:** [TimeStamp Microservice](https://repl.it/@Trinitui/boilerplate-project-timestamp#server.js)
+
+### Day 73: Oct 21, 2020
+
+**Today's Progress:** Working on TimeStamp MicroService challenge
+
+**Thoughts:** Timestamp project is coming along nicely! almost done. 
+
+**Link to work:** [TimeStamp Microservice](https://repl.it/@Trinitui/boilerplate-project-timestamp#server.js)
