@@ -650,3 +650,11 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 **Thoughts:** Timestamp project is coming along nicely! almost done. 
 
 **Link to work:** [TimeStamp Microservice](https://repl.it/@Trinitui/boilerplate-project-timestamp#server.js)
+
+### Day 74: Oct 24, 2020
+
+**Today's Progress:** Worked on TimeStamp and Header challenges, which I completed!
+
+**Thoughts:** Both were pretty good!
+
+**Link to work:** [URL Shortener](https://repl.it/@Trinitui/boilerplate-project-urlshortener#server.js)
