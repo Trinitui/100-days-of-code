@@ -658,3 +658,11 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 **Thoughts:** Both were pretty good!
 
 **Link to work:** [URL Shortener](https://repl.it/@Trinitui/boilerplate-project-urlshortener#server.js)
+
+### Day 75: Oct 25, 2020
+
+**Today's Progress:** Continuing work on the URL Shortener!
+
+**Thoughts:** Getting more aquainted with MongoDB now.
+
+**Link to work:** [URL Shortener](https://repl.it/@Trinitui/boilerplate-project-urlshortener#server.js)
