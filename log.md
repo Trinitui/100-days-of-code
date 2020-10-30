@@ -666,3 +666,11 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 **Thoughts:** Getting more aquainted with MongoDB now.
 
 **Link to work:** [URL Shortener](https://repl.it/@Trinitui/boilerplate-project-urlshortener#server.js)
+
+### Day 76: Oct 29, 2020
+
+**Today's Progress:** Continuing work on the URL Shortener!
+
+**Thoughts:** I took some time off, which was kinda needed. But, I feel a bit rusty now. Oh well, I'll be finishing this through and hopefully have some projects that I feel passionate about and can continue with. 
+
+**Link to work:** [URL Shortener](https://repl.it/@Trinitui/boilerplate-project-urlshortener#server.js)
