@@ -682,3 +682,19 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 **Thoughts:** Slowly making progress!
 
 **Link to work:** [URL Shortener](https://repl.it/@Trinitui/boilerplate-project-urlshortener#server.js)
+
+### Day 78: November 10th, 2020
+
+**Today's Progress:** Continuing work on the URL Shortener!
+
+**Thoughts:** Slowly making progress! I took a big break because JESUS was the election stressful.
+
+**Link to work:** [URL Shortener](https://repl.it/@Trinitui/boilerplate-project-urlshortener#server.js)
+
+### Day 79: November 11th, 2020
+
+**Today's Progress:** Continuing work on the URL Shortener - but I am taking a detour to learn more about express, mongo, and some other topics in a codeamn course. 
+
+**Thoughts:** I was getting nowhere with the URL shortener, and I feel like I don't know enough about Mongo and what I was doing, so I am doing a similar challenge/practice course on codeamn. It's kinda helping. There's also a video I should watch. 
+
+**Link to work:** [Practice on URL shortener](https://codedamn.com/practice/url-shortener-node/bfd9d2d7-e925-4ade-9d4b-f9e23124cc07)
