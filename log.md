@@ -698,3 +698,5 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 **Thoughts:** I was getting nowhere with the URL shortener, and I feel like I don't know enough about Mongo and what I was doing, so I am doing a similar challenge/practice course on codeamn. It's kinda helping. There's also a video I should watch. 
 
 **Link to work:** [Practice on URL shortener](https://codedamn.com/practice/url-shortener-node/bfd9d2d7-e925-4ade-9d4b-f9e23124cc07)
+
+**Link to work:** [Status Report Concept](https://codepen.io/Trinitui/pen/xxOONLg)
