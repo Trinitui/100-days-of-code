@@ -700,3 +700,11 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 **Link to work:** [Practice on URL shortener](https://codedamn.com/practice/url-shortener-node/bfd9d2d7-e925-4ade-9d4b-f9e23124cc07)
 
 **Link to work:** [Status Report Concept](https://codepen.io/Trinitui/pen/xxOONLg)
+
+## Day 80: November 12th, 2020
+
+**Today's Progress:** Continuing work on the URL Shortener - I used some code from online which was a cleaner implementation of what I was going for, and more importantly it worked.
+
+**Thoughts:** That course was a bust! Back to the url shortener project!
+
+**Link to work:** [URL Shortener](https://repl.it/@Trinitui/boilerplate-project-urlshortener#server.js)
