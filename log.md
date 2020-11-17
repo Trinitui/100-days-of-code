@@ -708,3 +708,14 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 **Thoughts:** That course was a bust! Back to the url shortener project!
 
 **Link to work:** [URL Shortener](https://repl.it/@Trinitui/boilerplate-project-urlshortener#server.js)
+
+
+### Day 81: November 16th, 2020
+
+**Today's Progress:** Continuing work on the URL Shortener, though I hit a wall and so asked for advice online. I also scoped out the Exercise Traker - that will take some doing.
+
+**Thoughts:** Back at it!
+
+**Link to work:** [URL Shortener](https://repl.it/@Trinitui/boilerplate-project-urlshortener#server.js)
+
+**Link to work:** [Exercise Tracker](https://repl.it/@Trinitui/boilerplate-project-exercisetracker)
