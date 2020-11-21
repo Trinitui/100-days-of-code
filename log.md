@@ -719,3 +719,19 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 **Link to work:** [URL Shortener](https://repl.it/@Trinitui/boilerplate-project-urlshortener#server.js)
 
 **Link to work:** [Exercise Tracker](https://repl.it/@Trinitui/boilerplate-project-exercisetracker)
+
+### Day 82: November 19th, 2020
+
+**Today's Progress:** While waiting for advice, I made some gains in AndrewBot functionality.
+
+**Thoughts:**
+
+**Link to work:** [AndrewBot](https://github.com/Trinitui/AndrewBot)
+
+### Day 83: November 19th, 2020
+
+**Today's Progress:** Got some advice, and used Regex to fix up the URL Shortener. Now it works fine. On to the exercise tracker.
+
+**Thoughts:** The Exercise Tracker is gonna take some time, it was broken for a bit.
+
+**Link to work:** [Exercise Tracker](https://repl.it/@Trinitui/boilerplate-project-exercisetracker-1)
