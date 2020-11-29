@@ -735,3 +735,19 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 **Thoughts:** The Exercise Tracker is gonna take some time, it was broken for a bit.
 
 **Link to work:** [Exercise Tracker](https://repl.it/@Trinitui/boilerplate-project-exercisetracker-1)
+
+### Day 84: November 27th, 2020
+
+**Today's Progress:** Working on AndrewBot.
+
+**Thoughts:** 
+
+**Link to work:** [AndrewBot](https://github.com/Trinitui/AndrewBot)
+
+### Day 85: November 28th, 2020
+
+**Today's Progress:** Working on AndrewBot.
+
+**Thoughts:** 
+
+**Link to work:** [AndrewBot](https://github.com/Trinitui/AndrewBot)
