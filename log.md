@@ -759,3 +759,11 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 **Thoughts:** Really putting a lot into the backend, infrastructure as code here.
 
 **Link to work:** [AndrewBot](https://github.com/Trinitui/AndrewBot)
+
+### Day 96: Till December 20th, 2020
+
+**Today's Progress:** Working on AndrewBot.
+
+**Thoughts:** Really putting a lot into the backend, infrastructure as code here.
+
+**Link to work:** [AndrewBot](https://github.com/Trinitui/AndrewBot)
