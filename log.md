@@ -791,3 +791,11 @@ So a user types in like 2+3 and then = and behind the scenes there's a test agai
 **Thoughts:** Really putting a lot into the backend, infrastructure as code here.
 
 **Link to work:** [AndrewBot](https://github.com/Trinitui/AndrewBot)
+
+# Day 100: January 2nd, 2021
+
+**Today's Progress:** Working on RocketLab-API 
+
+**Thoughts:** I was able to get this back online last night, now I need to connect it to my DB and update it!
+
+**Link to work:** [RocketLab-API](https://github.com/Trinitui/Rocket-Lab-API-Reborn)
